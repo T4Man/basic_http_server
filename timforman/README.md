@@ -17,7 +17,7 @@ to get an Aussie greeting
 
 ##Gulp Testing
 
-from the root project folder enter at the command line
+navigate to the root project folder and enter at the command line
 
 ###gulp lint
 for linter Testing
